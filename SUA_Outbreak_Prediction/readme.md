@@ -1,4 +1,5 @@
-Title: Water-borne diseases prediction
+**Title: Water-borne diseases prediction**
+
 Goal:
 To predict the total number of climate-sensitive disease outbreaks in Tanzania.
 
